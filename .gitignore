@@ -10,7 +10,5 @@ __pycache__/
 _ref/
 # sub-folder with sample pages
 pages/
-# sub-folder with scraped data
-data/
 
 geckodriver.log

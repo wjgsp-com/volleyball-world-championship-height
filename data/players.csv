@@ -1,0 +1,337 @@
+player_id,number,name,position,nationality,age,birth_date,height,weight,total_points,total_points_average_by_match,attack_points,attack_points_efficiency,attack_points_avg_points,block_points,block_points_success,block_points_avg_points,serve_points,serve_points_success,serve_points_avg_points
+150356,2,Germanier Sabrina Soledad,Setter,Argentina,23,07/06/1999,174,70,0,0.00,0,,0.0,0,0.00,0.00,0,0.00,0.00
+122486,3,Nizetich Paula Yamila,Outside Hitter,Argentina,33,27/01/1989,182,79,88,9.78,84,34.85,9.33,2,9.09,0.22,2,2.06,0.22
+136627,4,Bulaich Simian Daniela,Outside Hitter,Argentina,25,05/09/1997,178,67,85,9.44,78,30.35,8.67,5,14.71,0.56,2,2.41,0.22
+150349,5,Salinas Candela Sol,Outside Hitter,Argentina,22,23/05/2000,183,64,21,2.33,19,28.36,2.11,1,11.11,0.11,1,4.00,0.11
+181255,6,Verdier Lucia,Outside Hitter,Argentina,23,10/11/1999,180,65,0,0.0,0,,0.0,0,0.0,0.0,0,0.0,0.0
+144820,7,Mercado Erika,Opposite spiker,Argentina,30,27/02/1992,185,82,123,13.67,109,37.20,12.11,9,16.67,1.00,5,6.33,0.56
+170485,9,Cugno Bianca,Opposite spiker,Argentina,19,22/04/2003,191,72,32,3.56,30,39.47,3.33,1,10.00,0.11,1,6.67,0.11
+124660,10,Sosa Emilce,Middle blocker,Argentina,35,11/09/1987,177,72,3,0.33,0,0.00,0.00,0,0.00,0.00,3,9.68,0.33
+122484,12,Rizzo Tatiana Soledad,Libero,Argentina,35,30/12/1986,178,62,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+161529,13,Farriol Bianca,Middle blocker,Argentina,20,18/12/2001,185,77,51,5.67,40,44.94,4.44,10,11.36,1.11,1,1.28,0.11
+161521,14,Mayer Victoria,Setter,Argentina,21,19/06/2001,178,66,9,1.00,5,16.13,0.56,1,2.78,0.11,3,2.59,0.33
+150345,17,Herrera Rodriguez Candelaria Lucia,Middle blocker,Argentina,23,28/01/1999,182,71,81,9.00,53,42.06,5.89,24,20.51,2.67,4,3.64,0.44
+168882,19,Graff Brenda,Middle blocker,Argentina,28,20/07/1994,187,80,2,0.22,1,33.33,0.11,1,100,0.11,0,0.00,0.00
+161974,20,Pelozo Maria Agostina,Libero,Argentina,22,19/11/1999,165,56,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+160209,2,Van Sas Elise,Setter,Belgium,25,01/08/1997,188,73,2,0.22,2,50.00,0.22,0,0.00,0.00,0,0.00,0.00
+152042,3,Herbots Britt,Outside Hitter,Belgium,23,24/09/1999,182,63,222,24.67,203,40.04,22.56,11,28.95,1.22,8,6.56,0.89
+135880,4,Lemmens Nathalie,Middle blocker,Belgium,27,12/03/1995,193,78,59,6.56,34,40.00,3.78,20,17.70,2.22,5,4.95,0.56
+156326,5,Guilliams Jodie,Outside Hitter,Belgium,25,26/04/1997,180,73,6,0.67,5,29.41,0.56,0,0.00,0.00,1,6.67,0.11
+151117,7,Van Gestel Celine,Outside Hitter,Belgium,25,07/11/1997,183,70,81,9.00,69,30.00,7.67,7,17.07,0.78,5,4.90,0.56
+181275,9,Demeyer Nel,Libero,Belgium,21,21/03/2001,175,76,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+177099,10,Martin Pauline,Opposite spiker,Belgium,20,04/09/2002,189,78,1,0.11,0,0.00,0.00,0,0.00,0.00,1,14.29,0.11
+160479,12,Krenicky Charlotte,Setter,Belgium,22,29/06/2000,189,80,3,0.33,1,33.33,0.11,2,33.33,0.22,0,0.00,0.00
+156325,13,Janssens Marlies,Middle blocker,Belgium,25,04/06/1997,193,79,84,9.33,47,50.00,5.22,29,28.71,3.22,8,8.08,0.89
+160208,15,Van De Vyver Jutta,Setter,Belgium,26,11/06/1996,173,72,18,2.00,8,38.10,0.89,2,5.13,0.22,8,6.40,0.89
+168160,18,Rampelberg Britt,Libero,Belgium,22,05/06/2000,165,58,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+152040,19,Van Avermaet Silke,Middle blocker,Belgium,23,02/06/1999,192,76,70,7.78,58,44.96,6.44,5,10.64,0.56,7,7.87,0.78
+152057,21,Stragier Manon,Outside Hitter,Belgium,23,12/03/1999,182,69,2,0.22,1,25.00,0.11,0,0.0,0.0,1,4.17,0.11
+170698,22,Koulberg Anna,Middle blocker,Belgium,18,17/08/2004,188,67,0,0.00,0,,0.0,0,0.0,0.0,0,0.00,0.00
+113245,2,De Oliveira Saad Gattaz Caroline,Middle blocker,Brazil,41,27/07/1981,192,81,112,9.33,84,59.15,7.00,22,16.79,1.83,6,4.58,0.50
+173848,3,Gambatto Kudiess Julia,Middle blocker,Brazil,19,02/01/2003,192,82,5,0.42,2,22.22,0.17,2,28.57,0.17,1,10.00,0.08
+144866,4,Da Silva Ana Carolina,Middle blocker,Brazil,31,08/04/1991,183,73,129,10.75,65,50.39,5.42,59,36.42,4.92,5,3.12,0.42
+115970,5,Zalewski Daroit Moreira Priscila,Outside Hitter,Brazil,34,10/08/1988,184,75,107,8.92,91,41.18,7.58,11,31.43,0.92,5,4.46,0.42
+152135,6,Alexandre Costa Nunes Nyeme Victoria,Libero,Brazil,24,11/10/1998,175,79,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+136897,7,Montibeller Rosamaria,Outside Hitter,Brazil,28,09/04/1994,185,76,38,3.17,34,40.96,2.83,3,17.65,0.25,1,1.92,0.08
+151187,8,Silva Carneiro Macris Fernanda,Setter,Brazil,33,03/03/1989,178,64,18,1.50,6,31.58,0.50,6,12.00,0.50,6,4.05,0.50
+119575,9,Ratzke Roberta Silva,Setter,Brazil,32,28/04/1990,185,74,3,0.25,1,50.00,0.08,0,0.00,0.00,2,4.26,0.17
+136896,10,Braga Guimaraes Gabriela,Outside Hitter,Brazil,28,19/05/1994,180,65,214,17.83,200,45.98,16.67,6,13.33,0.50,8,4.12,0.67
+164674,14,Araujo Natália,Libero,Brazil,25,10/04/1997,162,59,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+152130,15,Viezel Lorena Giovana,Middle blocker,Brazil,23,21/07/1999,190,76,9,0.75,6,60.00,0.50,3,37.50,0.25,0,0.00,0.00
+171260,16,Nascimento Kisy,Opposite spiker,Brazil,22,28/01/2000,191,81,61,5.08,48,42.48,4.00,12,46.15,1.00,1,2.33,0.08
+163000,19,Lemes Santos Tainara,Outside Hitter,Brazil,22,09/03/2000,190,81,96,8.00,79,41.36,6.58,7,16.67,0.58,10,14.08,0.83
+141658,24,Geraldo Teixeira Lorenne,Opposite spiker,Brazil,26,08/01/1996,187,72,37,3.08,32,34.78,2.67,2,11.76,0.17,3,4.29,0.25
+142341,1,Dimitrova Gergana,Outside Hitter,Bulgaria,26,28/02/1996,184,71,14,2.80,14,28.57,2.80,0,0.00,0.00,0,0.00,0.00
+124202,2,Dimitrova Nasya,Middle blocker,Bulgaria,30,06/11/1992,190,70,55,11.00,43,55.84,8.60,10,16.95,2.00,2,3.23,0.40
+163256,4,Becheva Elena,Libero,Bulgaria,24,30/05/1998,185,70,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+174474,5,Yordanova Maria,Outside Hitter,Bulgaria,20,25/05/2002,181,72,2,0.40,2,22.22,0.40,0,0.00,0.00,0,0.00,0.00
+142347,6,Paskova-Kaneva Miroslava,Outside Hitter,Bulgaria,26,16/02/1996,180,67,46,9.20,43,39.81,8.60,1,5.56,0.20,2,3.57,0.40
+138283,7,Kitipova Lora,Setter,Bulgaria,31,19/05/1991,184,66,15,3.00,10,41.67,2.00,4,10.81,0.80,1,1.39,0.20
+142348,8,Barakova Petya,Setter,Bulgaria,28,18/06/1994,180,76,2,0.40,0,0.00,0.00,1,16.67,0.20,1,25.00,0.20
+163261,9,Saykova Borislava,Middle blocker,Bulgaria,22,14/07/2000,187,80,0,0.0,0,,0.0,0,0.0,0.0,0,0.0,0.0
+142337,10,Todorova Mira,Middle blocker,Bulgaria,28,12/04/1994,187,73,35,7.00,18,36.73,3.60,9,18.00,1.80,8,11.43,1.60
+174478,13,Pashkuleva Mila,Libero,Bulgaria,19,06/09/2003,175,60,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+122541,16,Atanasijevic Elitsa Vasileva,Outside Hitter,Bulgaria,32,13/05/1990,190,73,82,16.40,74,41.34,14.80,6,25.00,1.20,2,2.99,0.40
+163141,17,Marinova Radostina,Opposite spiker,Bulgaria,24,02/10/1998,186,65,15,3.00,12,41.38,2.40,1,20.00,0.20,2,12.50,0.40
+142333,18,Chausheva Silvana,Opposite spiker,Bulgaria,27,19/05/1995,188,75,41,8.20,35,32.41,7.00,1,4.76,0.20,5,10.64,1.00
+164660,28,Krivoshiyska Mariya,Middle blocker,Bulgaria,21,06/09/2001,186,58,2,0.40,1,33.33,0.20,1,25.00,0.20,0,0.00,0.00
+174702,1,Baran A Koung Sourea,Middle blocker,Cameroon,16,30/12/2005,194,77,1,0.20,0,0.00,0.00,1,25.00,0.20,0,0.00,0.00
+174707,2,Bediang Mpon Rodrigue,Outside Hitter,Cameroon,16,12/12/2005,185,91,0,0.0,0,,0.0,0,0.0,0.0,0,0.0,0.0
+183028,3,Magalie Elvire Mbengono Mengue,Middle blocker,Cameroon,18,07/08/2004,190,67,1,0.20,0,,0.0,0,0.0,0.0,1,25.00,0.20
+174928,5,Olomo Paule Arielle,Middle blocker,Cameroon,21,30/01/2001,185,70,27,5.40,15,37.50,3.00,10,22.22,2.00,2,7.14,0.40
+170078,7,Ngameni Mbopda Davina Reine,Libero,Cameroon,19,14/11/2002,168,65,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+177821,8,Emmanuela Grâce Bikatal,Setter,Cameroon,23,17/09/1999,170,60,1,0.20,0,,0.0,1,33.33,0.20,0,0.00,0.00
+174709,9,Gatcheu Djeutchoko Christiane Brandy,Outside Hitter,Cameroon,19,25/03/2003,182,74,14,2.80,11,23.40,2.20,1,11.11,0.20,2,7.69,0.40
+148394,10,Bikatal Berthrade Simone Flore,Opposite spiker,Cameroon,30,23/07/1992,183,76,44,8.80,41,41.00,8.20,2,11.76,0.40,1,2.38,0.20
+162853,12,Blamdai Carine,Middle blocker,Cameroon,22,24/08/2000,186,60,22,4.40,17,28.33,3.40,2,14.29,0.40,3,10.71,0.60
+174711,13,Wete Sissako Michelle,Outside Hitter,Cameroon,19,08/01/2003,180,66,6,1.20,4,57.14,0.80,2,100,0.40,0,0.00,0.00
+157623,14,Amana Guigolo Yolande Juliana,Setter,Cameroon,25,15/09/1997,184,78,8,1.60,4,50.00,0.80,1,8.33,0.20,3,8.82,0.60
+157617,15,Piata Ezssi Emelda,Middle blocker,Cameroon,25,08/04/1997,190,65,18,3.60,13,33.33,2.60,4,16.00,0.80,1,3.03,0.20
+162939,16,Adiana Estelle,Opposite spiker,Cameroon,25,14/05/1997,182,85,42,8.40,39,33.91,7.80,1,25.00,0.20,2,7.69,0.40
+183023,18,Therese Yolande Oceane Guebon Abouem,Libero,Cameroon,17,17/01/2005,182,75,0,0.0,0,,0.0,0,0.0,0.0,0,0.0,0.0
+168355,3,Van Ryk Kiera,Outside Hitter,Canada,23,06/01/1999,188,85,176,19.56,161,45.61,17.89,6,10.71,0.67,9,8.65,1.00
+139514,4,Savard Vicky,Outside Hitter,Canada,29,14/02/1993,185,82,13,1.44,9,32.14,1.00,2,40.00,0.22,2,8.70,0.22
+175158,5,Murmann Julia,Libero,Canada,20,10/11/2002,181,76,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+153629,6,White Jazmine Ruth,Middle blocker,Canada,28,14/12/1993,186,80,7,0.78,3,75.00,0.33,3,33.33,0.33,1,4.35,0.11
+142777,8,Ogoms Alicia,Middle blocker,Canada,28,02/04/1994,194,82,0,0.00,0,0.00,0.00,0,0.00,0.00,0,0.00,0.00
+132236,9,Gray Alexa,Outside Hitter,Canada,28,07/08/1994,185,75,143,15.89,133,41.69,14.78,8,23.53,0.89,2,1.82,0.22
+173581,11,Mitrovic Andrea,Outside Hitter,Canada,23,03/06/1999,187,70,12,1.33,8,25.00,0.89,3,75.00,0.33,1,4.55,0.11
+139522,12,Cross Jennifer,Middle blocker,Canada,30,04/07/1992,194,91,31,3.44,13,33.33,1.44,12,16.00,1.33,6,4.58,0.67
+173585,13,King Brie,Setter,Canada,24,24/01/1998,183,70,40,4.44,22,68.75,2.44,12,19.67,1.33,6,4.92,0.67
+174676,14,Howe Hilary,Outside Hitter,Canada,24,16/06/1998,185,77,85,9.44,68,37.99,7.56,15,34.88,1.67,2,2.13,0.22
+174680,16,Livingston Caroline,Outside Hitter,Canada,26,02/04/1996,188,70,1,0.11,0,,0.0,0,0.0,0.0,1,3.33,0.11
+156485,18,Robitaille Kim,Setter,Canada,31,16/10/1991,179,59,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+168354,19,Maglio Emily,Middle blocker,Canada,25,13/11/1996,191,82,83,9.22,59,48.76,6.56,14,14.89,1.56,10,9.52,1.11
+181280,20,Palermo Arielle,Libero,Canada,22,09/11/2000,170,55,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+135746,1,Yuan Xinyue,Middle blocker,China,25,21/12/1996,202,82,108,10.80,78,52.35,7.80,22,18.64,2.20,8,6.84,0.80
+162354,3,Diao Linyu,Setter,China,28,07/04/1994,183,64,24,2.40,8,40.00,0.80,12,19.35,1.20,4,3.60,0.40
+152337,4,Yang Hanyu,Middle blocker,China,23,12/10/1999,196,80,26,2.60,22,57.89,2.20,4,16.67,0.40,0,0.00,0.00
+152332,5,Gao Yi,Middle blocker,China,24,22/07/1998,194,76,2,0.20,1,100,0.10,1,100,0.10,0,0.00,0.00
+143206,6,Gong Xiangyu,Opposite spiker,China,25,21/04/1997,189,73,85,9.44,69,37.50,7.67,9,25.00,1.00,7,5.93,0.78
+143201,7,Wang Yuanyuan,Middle blocker,China,25,14/07/1997,196,71,76,7.60,55,52.38,5.50,18,20.45,1.80,3,3.12,0.30
+152917,8,Jin Ye,Outside Hitter,China,26,01/03/1996,189,80,1,0.10,1,11.11,0.10,0,0.00,0.00,0,0.00,0.00
+135740,10,Wang Yunlu,Outside Hitter,China,26,20/05/1996,191,83,112,11.20,93,41.15,9.30,9,18.75,0.90,10,8.06,1.00
+172644,11,Wang Yizhu,Outside Hitter,China,21,23/03/2001,190,72,3,0.30,3,30.00,0.30,0,0.00,0.00,0,0.00,0.00
+152318,12,Li Yingying,Outside Hitter,China,22,19/02/2000,192,73,179,17.90,160,45.45,16.00,8,21.05,0.80,11,7.05,1.10
+150705,15,Wang Weiyi,Libero,China,27,20/06/1995,175,71,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+124130,16,Ding Xia,Setter,China,32,13/01/1990,180,67,4,0.40,3,75.00,0.30,1,14.29,0.10,0,0.00,0.00
+135745,18,Wang Mengjie,Libero,China,26,14/11/1995,173,64,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+162977,19,Chen Peiyan,Opposite spiker,China,23,16/09/1999,195,85,2,0.20,1,25.00,0.10,1,16.67,0.10,0,0.0,0.0
+161575,1,Mosquera Darlevis,Middle blocker,Colombia,22,23/06/2000,180,51,23,4.60,15,42.86,3.00,5,20.00,1.00,3,11.11,0.60
+140402,2,Soto Yeisy,Middle blocker,Colombia,26,07/04/1996,186,55,12,2.40,11,50.00,2.20,1,9.09,0.20,0,0.00,0.00
+141896,3,Segovia Dayana,Opposite spiker,Colombia,26,24/03/1996,184,58,60,12.00,55,36.91,11.00,5,27.78,1.00,0,0.00,0.00
+161558,5,Olaya Gamboa Ana Karina,Outside Hitter,Colombia,20,13/09/2002,187,78,25,5.00,22,28.95,4.40,2,33.33,0.40,1,4.35,0.20
+161559,6,Carabali Valerin,Middle blocker,Colombia,22,25/10/2000,183,67,16,3.20,14,48.28,2.80,1,5.00,0.20,1,4.76,0.20
+123243,7,Montaño Madelaynne,Opposite spiker,Colombia,39,06/01/1983,188,70,6,1.20,6,35.29,1.20,0,0.00,0.00,0,0.0,0.0
+184107,9,Grajales Pascua Laura Vanessa,Outside Hitter,Colombia,19,21/12/2002,185,68,0,0.00,0,,0.0,0,0.0,0.0,0,0.00,0.00
+141509,10,Toro Juliana,Libero,Colombia,27,29/01/1995,166,65,0,0.00,0,,0.0,0,0.0,0.0,0,0.00,0.00
+138909,13,Gomez Camila,Libero,Colombia,27,06/07/1995,160,61,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+156366,14,Velasquez Angie,Setter,Colombia,22,13/06/2000,171,58,1,0.20,0,,0.0,0,0.0,0.0,1,6.25,0.20
+138911,15,Marin Maria Alejandra,Setter,Colombia,27,04/11/1995,180,65,15,3.00,8,50.00,1.60,3,17.65,0.60,4,6.35,0.80
+138910,16,Rangel Melissa,Middle blocker,Colombia,28,16/10/1994,193,75,23,4.60,19,52.78,3.80,4,12.50,0.80,0,0.00,0.00
+142892,19,Martinez Maria Margarita,Outside Hitter,Colombia,27,19/05/1995,180,77,13,2.60,12,30.00,2.40,1,10.00,0.20,0,0.00,0.00
+145689,20,Coneo Amanda,Outside Hitter,Colombia,25,20/12/1996,177,58,66,13.20,63,34.05,12.60,3,10.00,0.60,0,0.00,0.00
+189435,2,Grbavica Mika,Opposite spiker,Croatia,20,08/12/2001,191,75,18,3.60,17,33.33,3.40,1,20.00,0.20,0,0.00,0.00
+156438,3,Strunjak Ema,Middle blocker,Croatia,23,24/09/1999,187,80,3,0.60,2,40.00,0.40,1,50.00,0.20,0,0.00,0.00
+162957,4,Butigan Božana,Middle blocker,Croatia,22,19/08/2000,192,78,34,6.80,22,42.31,4.40,11,39.29,2.20,1,2.63,0.20
+156474,6,Peric Klara,Setter,Croatia,24,30/03/1998,185,71,0,0.00,0,0.00,0.00,0,0.0,0.0,0,0.00,0.00
+170571,7,Miloš Laura,Outside Hitter,Croatia,28,20/10/1994,178,64,34,6.80,31,32.63,6.20,3,50.00,0.60,0,0.00,0.00
+147402,9,Mlinar Lucija,Outside Hitter,Croatia,27,06/05/1995,180,73,36,7.20,32,38.10,6.40,2,40.00,0.40,2,4.08,0.40
+189437,10,Karatović Dijana,Outside Hitter,Croatia,19,23/07/2003,182,73,2,0.40,0,0.00,0.00,0,0.0,0.0,2,13.33,0.40
+154061,11,Dumančić Beta,Middle blocker,Croatia,31,26/03/1991,190,80,0,0.00,0,0.00,0.00,0,0.0,0.0,0,0.00,0.00
+189256,12,Marković Josipa,Libero,Croatia,21,25/01/2001,185,70,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+140914,13,Fabris Samanta,Opposite spiker,Croatia,30,08/02/1992,190,83,62,12.40,61,38.12,12.20,1,14.29,0.20,0,0.00,0.00
+136824,14,Šamadan Martina,Middle blocker,Croatia,29,11/09/1993,193,82,38,7.60,33,50.77,6.60,4,16.67,0.80,1,1.92,0.20
+173970,16,Deak Lea,Setter,Croatia,22,27/04/2000,177,68,7,1.40,4,50.00,0.80,0,0.00,0.00,3,5.88,0.60
+189270,19,Štimac Izabela,Libero,Croatia,21,12/11/2000,171,65,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+162938,20,Tomić Natalia,Outside Hitter,Croatia,20,04/01/2002,188,68,6,1.20,2,33.33,0.40,2,100,0.40,2,15.38,0.40
+124232,1,Kossanyiova Andrea,Outside Hitter,Czech Republic,29,06/08/1993,186,72,40,8.00,30,29.70,6.00,6,33.33,1.20,4,7.69,0.80
+143418,2,Hodanova Eva,Opposite spiker,Czech Republic,28,18/12/1993,189,75,8,1.60,7,35.00,1.40,0,0.0,0.0,1,5.26,0.20
+168827,4,Orvosova Gabriela,Opposite spiker,Czech Republic,21,28/01/2001,191,76,79,15.80,69,35.20,13.80,8,29.63,1.60,2,3.85,0.40
+188898,8,Koulisiani Ela,Middle blocker,Czech Republic,20,01/10/2002,187,65,28,5.60,18,45.00,3.60,7,17.07,1.40,3,5.66,0.60
+174037,9,Digrinova Daniela,Libero,Czech Republic,22,19/10/2000,169,63,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+142304,10,Valkova Katerina,Setter,Czech Republic,26,06/02/1996,177,59,12,2.40,7,41.18,1.40,3,10.71,0.60,2,3.51,0.40
+143420,11,Dostalova Veronika,Libero,Czech Republic,30,07/04/1992,170,66,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+189138,13,Pavlikova Denisa,Outside Hitter,Czech Republic,21,13/07/2001,180,74,2,0.40,1,100,0.20,1,100,0.20,0,0.00,0.00
+142297,16,Mlejnkova Michaela,Outside Hitter,Czech Republic,26,26/07/1996,185,78,55,11.00,51,31.48,10.20,2,8.33,0.40,2,3.64,0.40
+173325,17,Faltinova Klara,Outside Hitter,Czech Republic,24,23/12/1997,183,72,14,2.80,14,31.11,2.80,0,0.00,0.00,0,0.00,0.00
+153356,18,Simanova Pavlina,Middle blocker,Czech Republic,26,05/04/1996,186,80,33,6.60,21,40.38,4.20,8,20.51,1.60,4,7.02,0.80
+143419,19,Kojdova Petra,Outside Hitter,Czech Republic,29,23/09/1993,183,68,3,0.60,3,16.67,0.60,0,0.00,0.00,0,0.00,0.00
+174036,23,Bajusz Simona,Setter,Czech Republic,28,28/11/1993,175,62,0,0.00,0,,0.0,0,0.0,0.0,0,0.00,0.00
+185556,26,Blazkova Lucie,Middle blocker,Czech Republic,18,11/12/2003,190,77,0,0.00,0,0.00,0.00,0,0.00,0.00,0,0.00,0.00
+158817,2,Rodriguez Duran Yaneirys,Outside Hitter,Dominican Republic,22,26/06/2000,171,56,0,0.00,0,,0.0,0,0.0,0.0,0,0.00,0.00
+119039,5,Castillo Brenda,Libero,Dominican Republic,30,05/06/1992,167,55,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+119545,6,Dominguez Martinez Camil Inmaculada,Setter,Dominican Republic,30,07/12/1991,176,75,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+119585,7,Marte Frica Niverka Dharlenis,Setter,Dominican Republic,32,19/10/1990,178,71,14,1.56,7,53.85,0.78,3,11.11,0.33,4,2.82,0.44
+119224,8,Arias Perez Candida Estefany,Middle blocker,Dominican Republic,30,11/03/1992,194,68,17,1.89,11,44.00,1.22,5,17.86,0.56,1,1.61,0.11
+143961,9,Hinojosa Diaz Angelica Maria,Middle blocker,Dominican Republic,25,10/01/1997,186,72,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+149531,15,Guillen Paredes Madeline Jazmin,Outside Hitter,Dominican Republic,21,04/06/2001,186,74,2,0.22,2,20.00,0.22,0,0.0,0.0,0,0.00,0.00
+123978,16,Peña Isabel Yonkaira Paola,Outside Hitter,Dominican Republic,29,10/05/1993,190,70,69,7.67,57,31.49,6.33,8,22.22,0.89,4,3.60,0.44
+114294,18,De La Cruz De Peña Bethania,Outside Hitter,Dominican Republic,35,13/05/1987,188,70,50,5.56,43,48.86,4.78,3,25.00,0.33,4,8.89,0.44
+123982,20,Martinez Brayelin Elizabeth,Outside Hitter,Dominican Republic,26,11/09/1996,201,83,150,16.67,137,42.15,15.22,10,33.33,1.11,3,3.49,0.33
+139910,21,Martinez Jineiry,Middle blocker,Dominican Republic,24,03/12/1997,192,68,99,11.00,71,54.20,7.89,21,28.00,2.33,7,6.14,0.78
+139927,23,Gonzalez Lopez Gaila Ceneida,Opposite spiker,Dominican Republic,25,25/06/1997,190,73,166,18.44,135,44.26,15.00,18,35.29,2.00,13,9.92,1.44
+149530,24,Gonzalez Geraldine Sthefany,Middle blocker,Dominican Republic,20,18/04/2002,200,77,25,2.78,10,33.33,1.11,14,42.42,1.56,1,2.17,0.11
+139913,25,Martinez Caro Larysmer,Libero,Dominican Republic,26,18/10/1996,174,68,1,0.11,0,,0.0,0,0.0,0.0,1,3.85,0.11
+150973,2,Kästner Pia,Setter,Germany,24,29/06/1998,182,68,19,2.11,8,50.00,0.89,4,11.76,0.44,7,6.14,0.78
+136671,4,Pogany Anna,Libero,Germany,28,21/07/1994,170,60,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+163661,5,Glaab Corina,Setter,Germany,22,25/05/2000,180,65,1,0.11,0,0.00,0.00,1,100,0.11,0,0.00,0.00
+123911,6,Janiska Jennifer,Outside Hitter,Germany,28,05/04/1994,184,58,78,8.67,63,42.57,7.00,7,25.93,0.78,8,6.84,0.89
+156295,8,Drewniok Kimberly,Opposite spiker,Germany,25,11/08/1997,188,73,42,4.67,36,40.91,4.00,4,28.57,0.44,2,5.88,0.22
+163658,9,Alsmeier Lina,Outside Hitter,Germany,22,29/06/2000,189,70,85,9.44,74,41.81,8.22,5,31.25,0.56,6,7.89,0.67
+144980,10,Stigrot Lena,Outside Hitter,Germany,27,20/12/1994,184,68,29,3.22,23,24.73,2.56,5,17.86,0.56,1,2.00,0.11
+151016,12,Orthmann Hanna,Outside Hitter,Germany,24,03/10/1998,188,74,106,11.78,93,38.91,10.33,10,31.25,1.11,3,4.84,0.33
+118954,13,Hippe Saskia,Opposite spiker,Germany,31,16/01/1991,186,70,4,0.44,4,50.00,0.44,0,0.00,0.00,0,0.00,0.00
+150812,14,Schölzel Marie,Middle blocker,Germany,25,01/08/1997,190,73,85,9.44,57,50.89,6.33,22,22.45,2.44,6,5.77,0.67
+151014,15,Lohmann Elisa,Libero,Germany,24,22/07/1998,175,60,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+119316,17,Emonts Laura,Outside Hitter,Germany,31,04/04/1991,180,70,15,1.67,9,21.43,1.00,5,62.50,0.56,1,4.76,0.11
+153929,21,Weitzel Camilla,Middle blocker,Germany,22,11/06/2000,195,75,90,10.00,65,49.24,7.22,22,25.00,2.44,3,2.33,0.33
+182628,22,Strubbe Monique,Middle blocker,Germany,21,05/07/2001,189,75,6,0.67,5,55.56,0.56,1,12.50,0.11,0,0.00,0.00
+151658,1,Lubian Marina,Middle blocker,Italy,22,11/04/2000,193,81,38,3.17,24,47.06,2.00,7,21.88,0.58,7,7.78,0.58
+118764,3,Gennari Alessia,Outside Hitter,Italy,31,03/11/1991,184,74,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+142391,4,Bonifacio Sara,Middle blocker,Italy,26,03/07/1996,186,75,5,0.42,3,42.86,0.25,2,22.22,0.17,0,0.00,0.00
+143371,5,Malinov Ofelia,Setter,Italy,26,29/02/1996,182,70,3,0.25,1,33.33,0.08,2,20.00,0.17,0,0.00,0.00
+115478,6,De Gennaro Monica,Libero,Italy,35,08/01/1987,174,67,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+173402,7,Fersino Eleonora,Libero,Italy,22,24/01/2000,169,69,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+150441,8,Orro Alessia,Setter,Italy,24,18/07/1998,178,74,31,2.58,17,56.67,1.42,7,10.00,0.58,7,3.83,0.58
+123744,9,Bosetti Caterina Chiara,Outside Hitter,Italy,28,02/02/1994,179,62,103,8.58,74,34.74,6.17,11,23.40,0.92,18,12.50,1.50
+136690,10,Chirichella Cristina,Middle blocker,Italy,28,10/02/1994,191,79,51,4.25,39,42.39,3.25,9,16.36,0.75,3,3.75,0.25
+136694,11,Danesi Anna,Middle blocker,Italy,26,20/04/1996,195,78,123,10.25,78,60.47,6.50,42,27.45,3.50,3,2.10,0.25
+156104,14,Pietrini Elena,Outside Hitter,Italy,22,17/03/2000,188,73,70,5.83,64,40.76,5.33,5,16.67,0.42,1,1.25,0.08
+151664,15,Nwakalor Sylvia Chinelo,Opposite spiker,Italy,23,12/08/1999,179,75,16,1.33,14,45.16,1.17,2,33.33,0.17,0,0.00,0.00
+136701,17,Sylla Miryam Fatime,Outside Hitter,Italy,27,08/01/1995,184,80,98,8.17,86,40.76,7.17,12,37.50,1.00,0,0.00,0.00
+150840,18,Egonu Paola Ogechi,Opposite spiker,Italy,23,18/12/1998,193,74,275,22.92,244,49.39,20.33,23,25.56,1.92,8,5.88,0.67
+146207,2,Uchiseto Mami,Libero,Japan,31,25/10/1991,172,69,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+143437,3,Koga Sarina,Outside Hitter,Japan,26,21/05/1996,180,66,63,7.00,52,33.99,5.78,6,31.58,0.67,5,8.06,0.56
+162218,4,Ishikawa Mayu,Outside Hitter,Japan,22,14/05/2000,174,64,117,11.70,103,38.01,10.30,0,0.00,0.00,14,11.20,1.40
+141953,5,Shimamura Haruyo,Middle blocker,Japan,30,04/03/1992,182,78,47,4.70,43,49.43,4.30,4,9.76,0.40,0,0.00,0.00
+142372,10,Inoue Arisa,Outside Hitter,Japan,27,08/05/1995,178,68,159,15.90,146,39.46,14.60,7,16.67,0.70,6,4.80,0.60
+181033,12,Momii Aki,Setter,Japan,22,07/10/2000,176,65,1,0.10,0,,0.0,1,100,0.10,0,0.00,0.00
+151953,15,Hayashi Kotona,Outside Hitter,Japan,22,13/11/1999,173,60,126,12.60,111,45.87,11.10,9,16.67,0.90,6,5.31,0.60
+162227,19,Yamada Nichika,Middle blocker,Japan,22,24/02/2000,184,74,72,7.20,57,55.34,5.70,14,17.72,1.40,1,0.96,0.10
+189198,22,Fukudome Satomi,Libero,Japan,24,23/11/1997,162,61,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+189040,23,Yokota Mami,Middle blocker,Japan,24,10/12/1997,177,63,18,1.80,15,48.39,1.50,3,13.64,0.30,0,0.00,0.00
+146519,26,Miyabe Airi,Outside Hitter,Japan,24,29/07/1998,181,66,18,1.80,12,37.50,1.20,3,15.79,0.30,3,7.50,0.30
+151944,30,Seki Nanami,Setter,Japan,23,12/06/1999,171,61,21,2.10,12,48.00,1.20,3,8.57,0.30,6,5.26,0.60
+162225,37,Miyabe Ameze,Outside Hitter,Japan,21,12/10/2001,173,61,5,0.50,4,57.14,0.40,1,100,0.10,0,0.00,0.00
+189193,38,Sato Yoshino,Outside Hitter,Japan,20,12/11/2001,177,62,1,0.10,0,,0.0,0,0.0,0.0,1,4.17,0.10
+133661,3,Petrenko Yana,Middle blocker,Kazakhstan,32,30/07/1990,181,72,1,0.20,0,0.00,0.00,1,16.67,0.20,0,0.00,0.00
+165336,4,Mikhailova Ekaterina,Outside Hitter,Kazakhstan,24,04/05/1998,184,76,14,2.80,13,38.24,2.60,0,0.00,0.00,1,10.00,0.20
+150953,9,Chumak Valeriya,Middle blocker,Kazakhstan,28,20/09/1994,187,70,7,1.40,6,27.27,1.20,1,3.57,0.20,0,0.00,0.00
+161762,11,Meister Yelizaveta,Setter,Kazakhstan,25,01/11/1997,177,68,11,2.20,3,27.27,0.60,3,12.00,0.60,5,9.26,1.00
+157571,12,Bekisheva Sabira,Libero,Kazakhstan,24,21/02/1998,169,64,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+161759,15,Beket Madina,Libero,Kazakhstan,23,06/11/1999,160,54,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+155610,16,Nikitina Tatyana,Opposite spiker,Kazakhstan,21,15/01/2001,185,71,51,10.20,47,30.32,9.40,4,20.00,0.80,0,0.00,0.00
+157576,17,Belchenko Margarita,Outside Hitter,Kazakhstan,23,21/03/1999,177,64,10,2.00,9,22.50,1.80,0,0.00,0.00,1,3.57,0.20
+148579,19,Kolomoyets Anastassiya,Middle blocker,Kazakhstan,31,18/04/1991,182,70,4,0.80,4,33.33,0.80,0,0.00,0.00,0,0.00,0.00
+173398,21,Sagimbayeva Tomiris,Outside Hitter,Kazakhstan,21,01/08/2001,170,60,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+146987,25,Nigmatulina Nailya,Setter,Kazakhstan,25,13/11/1996,178,63,0,0.0,0,,0.0,0,0.0,0.0,0,0.0,0.0
+188154,27,Smirnova Natalya,Middle blocker,Kazakhstan,22,29/12/1999,185,71,25,5.00,19,47.50,3.80,6,24.00,1.20,0,0.00,0.00
+157572,29,Belova Kristina,Opposite spiker,Kazakhstan,23,29/11/1998,184,75,39,7.80,35,26.12,7.00,1,7.14,0.20,3,7.50,0.60
+156859,99,Kozhanberdina Dinara,Setter,Kazakhstan,23,01/12/1998,175,70,0,0.00,0,,0.0,0,0.0,0.0,0,0.00,0.00
+155963,1,Kilabat Veronica,Setter,Kenya,26,19/03/1996,178,65,0,0.00,0,0.00,0.00,0,0.00,0.00,0,0.0,0.0
+179854,2,Oluoch Veronica Adhiambo,Outside Hitter,Kenya,23,05/06/1999,180,67,50,10.00,41,39.42,8.20,4,25.00,0.80,5,10.42,1.00
+124185,3,Makuto Violet,Opposite spiker,Kenya,29,20/05/1993,167,65,0,0.00,0,0.00,0.00,0,0.00,0.00,0,0.00,0.00
+170121,5,Kiprono Sharon Chepchumba,Opposite spiker,Kenya,24,26/10/1998,183,82,66,13.20,64,33.51,12.80,2,11.76,0.40,0,0.00,0.00
+178599,6,Barasa Belinda Nanjala,Middle blocker,Kenya,21,28/04/2001,188,72,10,2.00,7,53.85,1.40,3,13.64,0.60,0,0.00,0.00
+178597,7,Misoki Emmaculate Nekesa,Setter,Kenya,19,06/06/2003,184,82,6,1.20,2,16.67,0.40,0,0.00,0.00,4,8.16,0.80
+137998,10,Murambi Noel,Outside Hitter,Kenya,33,29/01/1989,178,68,9,1.80,9,25.71,1.80,0,0.00,0.00,0,0.00,0.00
+174877,12,Emaniman Gladys Ekaru,Middle blocker,Kenya,23,02/10/1999,192,70,15,3.00,6,28.57,1.20,7,31.82,1.40,2,7.69,0.40
+164744,13,Kiitha Yvonne Wavinya,Libero,Kenya,26,22/02/1996,158,64,0,0.00,0,,0.0,0,0.0,0.0,0,0.00,0.00
+112744,14,Mercy Moim Mercy,Outside Hitter,Kenya,33,01/01/1989,183,72,26,5.20,24,39.34,4.80,1,10.00,0.20,1,2.50,0.20
+170122,15,Kaei Lorine Chebet,Middle blocker,Kenya,23,08/10/1999,179,69,7,1.40,3,37.50,0.60,4,25.00,0.80,0,0.00,0.00
+174878,16,Kundu Agripina Khayesi,Libero,Kenya,29,24/04/1993,155,63,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+147441,19,Mukuvilani Edith,Middle blocker,Kenya,28,20/07/1994,184,72,26,5.20,18,41.86,3.60,8,26.67,1.60,0,0.00,0.00
+164770,20,Sande Meldinah Nemali,Outside Hitter,Kenya,26,01/10/1996,180,80,0,0.00,0,,0.0,0,0.00,0.00,0,0.0,0.0
+116433,1,Han Sooji,Middle blocker,Korea,33,01/02/1989,182,72,4,0.80,4,66.67,0.80,0,0.00,0.00,0,0.00,0.00
+120148,3,Yeum Hye Seon,Setter,Korea,31,03/02/1991,176,66,4,0.80,0,0.00,0.00,1,20.00,0.20,3,6.52,0.60
+181150,4,Han Dahye,Libero,Korea,27,28/02/1995,164,51,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+189225,5,Kim Ha Kyung,Setter,Korea,25,15/11/1996,174,66,0,0.00,0,,0.0,0,0.00,0.00,0,0.00,0.00
+133487,8,Kim Yeongyeon,Libero,Korea,28,01/12/1993,163,52,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+163760,9,Lee Juah,Middle blocker,Korea,22,21/08/2000,185,71,38,7.60,27,51.92,5.40,7,36.84,1.40,4,10.26,0.80
+163836,11,Park Hyemin,Outside Hitter,Korea,22,08/11/2000,180,63,0,0.00,0,0.00,0.00,0,0.0,0.0,0,0.00,0.00
+163822,12,Lee Dahyeon,Middle blocker,Korea,21,11/11/2001,185,70,20,4.00,14,42.42,2.80,4,20.00,0.80,2,5.56,0.40
+131893,13,Park Jeongah,Outside Hitter,Korea,29,26/03/1993,187,75,55,11.00,51,32.90,10.20,2,25.00,0.40,2,4.65,0.40
+175172,15,Lee Seonwoo,Outside Hitter,Korea,20,12/07/2002,183,68,42,8.40,31,27.68,6.20,1,11.11,0.20,10,17.86,2.00
+157056,17,Ha Hyejin,Opposite spiker,Korea,26,07/09/1996,181,60,0,0.0,0,,0.0,0,0.0,0.0,0,0.0,0.0
+119479,18,Hwang Minkyoung,Outside Hitter,Korea,32,02/06/1990,174,63,27,5.40,24,30.00,4.80,0,0.00,0.00,3,10.00,0.60
+133482,19,Pyo Seungju,Outside Hitter,Korea,30,07/08/1992,182,76,11,2.20,9,25.71,1.80,1,33.33,0.20,1,6.67,0.20
+151962,20,Yoo Seo Yeun,Outside Hitter,Korea,23,12/01/1999,174,62,6,1.20,5,20.00,1.00,0,0.00,0.00,1,14.29,0.20
+150828,2,Savelkoel Fleur,Outside Hitter,Netherlands,27,22/08/1995,184,77,6,0.67,5,31.25,0.56,0,0.00,0.00,1,12.50,0.11
+142880,4,Plak Celeste,Opposite spiker,Netherlands,27,26/10/1995,190,87,63,7.00,56,34.78,6.22,7,20.59,0.78,0,0.00,0.00
+167482,5,Knollema Jolien,Outside Hitter,Netherlands,19,05/01/2003,189,73,0,0.0,0,,0.0,0,0.0,0.0,0,0.0,0.0
+151194,7,Lohuis Juliet,Middle blocker,Netherlands,26,10/09/1996,190,77,77,8.56,49,50.52,5.44,23,22.55,2.56,5,4.81,0.56
+123468,9,Schoot Myrthe,Libero,Netherlands,34,29/08/1988,182,70,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+120503,11,Buijs Anne,Outside Hitter,Netherlands,30,02/12/1991,191,73,128,14.22,116,37.79,12.89,7,17.50,0.78,5,4.31,0.56
+147432,12,Bongaerts Britt,Setter,Netherlands,26,03/11/1996,185,68,26,2.89,6,50.00,0.67,12,21.82,1.33,8,7.41,0.89
+124070,14,Dijkema Laura,Setter,Netherlands,32,18/02/1990,184,70,3,0.33,0,0.00,0.00,1,20.00,0.11,2,6.67,0.22
+159904,18,Jasper Marrit,Outside Hitter,Netherlands,26,28/02/1996,180,74,1,0.11,0,0.00,0.00,0,0.0,0.0,1,9.09,0.11
+150809,19,Daalderop Nika,Outside Hitter,Netherlands,23,29/11/1998,189,72,135,15.00,113,41.70,12.56,13,25.49,1.44,9,7.44,1.00
+150808,20,Polder Tessa,Middle blocker,Netherlands,25,10/10/1997,189,76,8,0.89,7,50.00,0.78,1,9.09,0.11,0,0.00,0.00
+172894,23,Timmerman Eline,Middle blocker,Netherlands,23,30/12/1998,192,78,72,8.00,39,42.39,4.33,31,24.60,3.44,2,1.64,0.22
+148581,25,Reesink Florien,Libero,Netherlands,24,09/06/1998,174,61,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+181248,26,Dambrink Elles,Opposite spiker,Netherlands,19,22/06/2003,184,80,36,4.00,35,42.17,3.89,1,6.25,0.11,0,0.00,0.00
+152233,1,Stenzel Maria,Libero,Poland,23,25/11/1998,168,53,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+172984,2,Stencel Anna,Middle blocker,Poland,27,28/08/1995,187,71,6,0.60,3,42.86,0.30,2,50.00,0.20,1,12.50,0.10
+162398,3,Alagierska-Szczepaniak Klaudia,Middle blocker,Poland,26,02/01/1996,190,76,22,2.20,15,68.18,1.50,4,20.00,0.40,3,6.38,0.30
+136317,5,Korneluk Agnieszka,Middle blocker,Poland,28,17/10/1994,197,75,107,10.70,67,56.78,6.70,34,44.16,3.40,6,4.26,0.60
+156479,6,Witkowska Kamila,Middle blocker,Poland,30,02/12/1991,191,76,61,6.10,37,59.68,3.70,21,40.38,2.10,3,3.16,0.30
+143465,7,Galkowska Monika,Opposite spiker,Poland,26,06/04/1996,185,70,10,1.00,9,28.12,0.90,1,33.33,0.10,0,0.00,0.00
+152223,8,Gorecka Zuzanna,Outside Hitter,Poland,22,10/04/2000,181,63,63,6.30,51,37.23,5.10,4,21.05,0.40,8,5.84,0.80
+152217,9,Stysiak Magdalena,Opposite spiker,Poland,21,03/12/2000,203,90,241,24.10,197,46.90,19.70,35,54.69,3.50,9,8.33,0.90
+152231,10,Fedusio Monika,Outside Hitter,Poland,23,06/11/1999,183,76,4,0.40,3,60.00,0.30,0,0.0,0.0,1,20.00,0.10
+185609,12,Szczyglowska Aleksandra,Libero,Poland,24,22/03/1998,172,58,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+118591,14,Wolosz Joanna,Setter,Poland,32,07/04/1990,181,71,12,1.20,7,41.18,0.70,4,15.38,0.40,1,0.58,0.10
+164107,22,Szlagowska Weronika,Outside Hitter,Poland,20,29/11/2001,188,70,14,1.40,10,35.71,1.00,4,40.00,0.40,0,0.00,0.00
+181263,26,Wenerska Katarzyna,Setter,Poland,29,09/03/1993,180,62,1,0.10,0,,0.0,0,0.0,0.0,1,3.45,0.10
+151231,30,Rozanski Olivia,Outside Hitter,Poland,25,05/06/1997,185,74,136,13.60,108,36.73,10.80,16,41.03,1.60,12,8.11,1.20
+133615,2,Venegas Shara,Libero,Puerto Rico,30,18/09/1992,172,58,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+133612,4,Santos Raymariely,Setter,Puerto Rico,30,13/04/1992,183,72,2,0.22,1,100,0.11,0,0.00,0.00,1,6.25,0.11
+119141,7,Enright Stephanie,Outside Hitter,Puerto Rico,31,15/12/1990,179,56,77,8.56,73,32.59,8.11,3,9.68,0.33,1,1.35,0.11
+139897,8,Rojas Paola,Middle blocker,Puerto Rico,26,26/01/1996,182,65,1,0.11,1,50.00,0.11,0,0.00,0.00,0,0.00,0.00
+119345,9,Nogueras Jennifer,Setter,Puerto Rico,31,01/08/1991,185,88,0,0.00,0,,0.0,0,0.0,0.0,0,0.00,0.00
+133616,10,Reyes Diana,Middle blocker,Puerto Rico,29,29/04/1993,191,80,53,5.89,37,45.12,4.11,14,20.29,1.56,2,2.82,0.22
+168947,11,Abercrombie Brittany,Opposite spiker,Puerto Rico,26,28/12/1995,192,72,132,14.67,120,38.71,13.33,10,16.39,1.11,2,2.74,0.22
+147333,12,Ortiz Neira,Middle blocker,Puerto Rico,29,06/07/1993,192,68,72,8.00,28,37.33,3.11,39,32.23,4.33,5,5.62,0.56
+119146,14,Valentin Natalia,Setter,Puerto Rico,33,12/09/1989,170,61,15,1.67,6,60.00,0.67,1,4.17,0.11,8,6.02,0.89
+133609,15,Collazo Genesis,Opposite spiker,Puerto Rico,30,04/10/1992,185,74,16,1.78,15,32.61,1.67,1,10.00,0.11,0,0.00,0.00
+132333,16,Hernandez Alba,Middle blocker,Puerto Rico,28,03/10/1994,207,87,0,0.00,0,0.00,0.00,0,0.00,0.00,0,0.00,0.00
+132323,21,Victoria Pilar Marie,Outside Hitter,Puerto Rico,27,11/10/1995,182,53,40,4.44,32,31.68,3.56,6,26.09,0.67,2,3.64,0.22
+116900,22,Ocasio Karina,Outside Hitter,Puerto Rico,37,01/08/1985,192,76,53,5.89,44,32.35,4.89,6,26.09,0.67,3,3.66,0.33
+173628,23,Velez Nomaris,Libero,Puerto Rico,29,11/06/1993,178,70,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+136024,1,Busa Bianka,Outside Hitter,Serbia,28,25/07/1994,187,74,97,8.08,80,46.24,6.67,9,23.68,0.75,8,5.48,0.67
+152168,2,Lazovic Katarina,Outside Hitter,Serbia,23,12/09/1999,182,65,3,0.25,2,25.00,0.17,0,0.00,0.00,1,1.96,0.08
+120326,4,Drca Bojana,Setter,Serbia,34,29/03/1988,186,70,35,2.92,21,65.62,1.75,6,15.38,0.50,8,6.06,0.67
+136030,5,Popovic Mina,Middle blocker,Serbia,28,16/09/1994,187,73,35,2.92,25,56.82,2.08,7,17.50,0.58,3,5.08,0.25
+136812,8,Mirkovic Sladjana,Setter,Serbia,27,07/10/1995,185,78,4,0.33,2,40.00,0.17,1,16.67,0.08,1,4.00,0.08
+121593,9,Mihajlovic Brankica,Outside Hitter,Serbia,31,13/04/1991,190,83,84,7.00,73,43.98,6.08,9,25.71,0.75,2,2.35,0.17
+123709,12,Pusic Teodora,Libero,Serbia,29,12/03/1993,170,58,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+123694,13,Bjelica Ana,Opposite spiker,Serbia,30,03/04/1992,190,78,25,2.08,21,43.75,1.75,3,37.50,0.25,1,5.88,0.08
+143548,14,Aleksic Maja,Middle blocker,Serbia,25,06/06/1997,188,72,74,6.17,53,56.38,4.42,21,23.86,1.75,0,0.00,0.00
+123700,15,Stevanovic Jovana,Middle blocker,Serbia,30,30/06/1992,192,72,93,7.75,50,50.51,4.17,33,29.46,2.75,10,7.69,0.83
+170965,16,Jegdic Aleksandra,Libero,Serbia,28,09/10/1994,167,58,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+137941,18,Boškovic Tijana,Opposite spiker,Serbia,25,08/03/1997,193,82,240,20.00,219,55.58,18.25,13,31.71,1.08,8,5.93,0.67
+142478,19,Milenkovic Bojana,Outside Hitter,Serbia,25,06/03/1997,185,70,28,2.33,26,50.98,2.17,1,12.50,0.08,1,2.86,0.08
+142479,22,Lozo Sara,Opposite spiker,Serbia,25,29/04/1997,186,71,54,4.50,44,44.44,3.67,7,25.00,0.58,3,4.29,0.25
+131866,2,Pannoy Piyanut,Libero,Thailand,33,10/11/1989,170,63,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+123019,3,Guedpard Pornpun,Setter,Thailand,29,05/05/1993,170,63,15,1.67,6,33.33,0.67,4,15.38,0.44,5,4.24,0.56
+142172,5,Nuekjang Thatdao,Middle blocker,Thailand,28,03/02/1994,184,72,51,5.67,33,44.00,3.67,13,22.41,1.44,5,4.67,0.56
+148711,9,Sanitklang Nattaporn,Libero,Thailand,31,14/08/1991,166,55,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+142180,11,Pinsuwan Khatthalee,Outside Hitter,Thailand,28,30/10/1994,170,70,0,0.00,0,0.00,0.00,0,0.0,0.0,0,0.00,0.00
+145244,12,Bamrungsuk Hattaya,Middle blocker,Thailand,29,12/08/1993,180,71,63,7.00,46,46.00,5.11,13,25.00,1.44,4,3.31,0.44
+152179,13,Jaisaen Natthanicha,Setter,Thailand,24,21/05/1998,171,55,1,0.11,0,,0.0,0,0.0,0.0,1,6.67,0.11
+152205,14,Sooksod Thanacha,Opposite spiker,Thailand,22,26/05/2000,180,70,7,0.78,7,31.82,0.78,0,0.00,0.00,0,0.00,0.00
+151121,16,Kokram Pimpichaya,Opposite spiker,Thailand,24,16/06/1998,178,62,144,16.00,133,40.06,14.78,5,22.73,0.56,6,6.19,0.67
+180383,17,Janthawisut Sasipapron,Outside Hitter,Thailand,25,10/06/1997,175,65,23,2.56,21,34.43,2.33,1,10.00,0.11,1,2.50,0.11
+133511,18,Kongyot Ajcharaporn,Outside Hitter,Thailand,27,18/06/1995,178,65,132,14.67,123,41.14,13.67,6,20.69,0.67,3,2.56,0.33
+147213,19,Moksri Chatchu-On,Outside Hitter,Thailand,23,06/11/1999,178,58,102,11.33,91,39.22,10.11,5,17.86,0.56,6,5.22,0.67
+142178,22,Nuanjam Watchareeya,Middle blocker,Thailand,26,22/07/1996,178,70,2,0.22,1,25.00,0.11,1,100,0.11,0,0.00,0.00
+163495,24,Boonlert Tichakorn,Middle blocker,Thailand,21,22/03/2001,180,78,5,0.56,3,25.00,0.33,2,28.57,0.22,0,0.00,0.00
+158840,2,Akoz Simge Sebnem,Libero,Türkiye,31,23/04/1991,168,60,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+143590,3,Özbay Cansu,Setter,Türkiye,26,17/10/1996,179,78,22,2.20,9,56.25,0.90,4,12.90,0.40,9,7.76,0.90
+152312,6,Sahin Saliha,Outside Hitter,Türkiye,24,05/11/1998,183,72,79,7.90,64,39.02,6.40,6,31.58,0.60,9,7.26,0.90
+143585,7,Baladin Hande,Outside Hitter,Türkiye,25,01/09/1997,187,78,96,9.60,81,41.33,8.10,9,24.32,0.90,6,6.25,0.60
+148070,9,Ismailoglu Meliha,Outside Hitter,Türkiye,29,17/09/1993,182,74,3,0.30,3,33.33,0.30,0,0.00,0.00,0,0.00,0.00
+163975,12,Şahin Elif,Setter,Türkiye,21,19/01/2001,184,73,13,1.30,7,77.78,0.70,4,50.00,0.40,2,8.33,0.20
+151195,13,Boz Meryem,Opposite spiker,Türkiye,34,03/02/1988,190,75,12,1.20,7,30.43,0.70,2,22.22,0.20,3,7.89,0.30
+138782,14,Erdem Dündar Eda,Middle blocker,Türkiye,35,22/06/1987,188,79,89,8.90,60,53.57,6.00,23,37.10,2.30,6,5.88,0.60
+163093,15,Akyol Ayçin,Middle blocker,Türkiye,23,15/06/1999,188,75,7,0.70,5,55.56,0.50,1,50.00,0.10,1,12.50,0.10
+163094,17,Cebecioglu Derya,Outside Hitter,Türkiye,22,24/10/2000,181,69,20,2.00,16,57.14,1.60,1,16.67,0.10,3,12.50,0.30
+152263,18,Gunes Zehra,Middle blocker,Türkiye,23,07/07/1999,198,84,100,10.00,75,57.25,7.50,20,29.85,2.00,5,3.91,0.50
+168151,20,Acar Aylin,Libero,Türkiye,27,21/07/1995,172,72,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+163089,22,Aydin İlkin,Outside Hitter,Türkiye,22,05/01/2000,179,74,17,1.70,15,38.46,1.50,1,12.50,0.10,1,2.63,0.10
+163982,99,Karakurt Ebrar,Opposite spiker,Türkiye,22,17/01/2000,195,78,173,17.30,139,41.74,13.90,24,46.15,2.40,10,9.43,1.00
+143517,2,Poulter Jordyn,Setter,United States,25,31/07/1997,188,77,29,2.42,7,53.85,0.58,8,23.53,0.67,14,11.67,1.17
+135564,4,Wong-Orantes Justine,Libero,United States,27,06/10/1995,168,66,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+152187,5,Hentz Morgan,Libero,United States,24,27/07/1998,175,66,0,0.00,0,,0.0,0,0.0,0.0,0,0.0,0.0
+132500,7,Carlini Lauren,Setter,United States,27,28/02/1995,185,75,16,1.33,7,46.67,0.58,7,20.59,0.58,2,4.00,0.17
+160909,8,Tapp Hannah,Middle blocker,United States,27,21/06/1995,191,77,15,1.25,8,44.44,0.67,3,10.34,0.25,4,16.00,0.33
+155307,11,Drews Andrea,Opposite spiker,United States,28,25/12/1993,191,77,143,11.92,114,37.75,9.50,11,18.97,0.92,18,11.32,1.50
+162942,13,Wilhite Sarah,Outside Hitter,United States,27,30/07/1995,185,75,17,1.42,12,33.33,1.00,3,60.00,0.25,2,3.33,0.17
+140052,15,Washington Haleigh,Middle blocker,United States,27,22/09/1995,190,82,89,7.42,61,49.19,5.08,17,19.10,1.42,11,8.66,0.92
+179566,18,Bajema Kara,Outside Hitter,United States,24,24/03/1998,190,75,34,2.83,30,34.88,2.50,1,9.09,0.08,3,5.66,0.25
+143524,20,Cuttino Danielle,Opposite spiker,United States,26,22/06/1996,195,84,33,2.75,29,38.67,2.42,4,40.00,0.33,0,0.00,0.00
+141933,23,Robinson Kelsey,Outside Hitter,United States,30,25/06/1992,188,73,118,9.83,105,43.21,8.75,12,23.08,1.00,1,0.83,0.08
+166638,24,Ogbogu Chiaka,Middle blocker,United States,27,15/04/1995,188,73,99,8.25,66,55.46,5.50,27,32.14,2.25,6,6.59,0.50
+139848,30,Frantti Alexandra,Outside Hitter,United States,26,03/03/1996,191,57,126,10.50,109,47.60,9.08,6,20.00,0.50,11,8.73,0.92
+186519,31,Stevenson Anna,Middle blocker,United States,23,08/07/1999,188,73,14,1.17,8,72.73,0.67,3,25.00,0.25,3,30.00,0.25
