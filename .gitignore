@@ -6,9 +6,4 @@ __pycache__/
 # jupyter notebook folder
 .ipynb_checkpoints/
 
-# folder with old/reference code
-_ref/
-# sub-folder with sample pages
-pages/
-
 geckodriver.log
