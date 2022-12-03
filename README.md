@@ -2,7 +2,15 @@
 
 Repository with the analysis of the 2022 FIVB Volleyball Women's World Championship players’ height distribution and its influence on the team’s performances.
 
-Contains the Python code used for data scraping and a jupyter notebook with the data treatment and  graphs generation.
+Contains the Python code used for data scraping and a [jupyter notebook](volleyball-world-championship-data-analysis.ipynb) with the data treatment and graphs generation.
+
+If you are using the Firefox browser the graphs on the notebook may not show, as [SVGs on GitHub may not render with Firefox](https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files).
+
+To install all the dependencies, you may use conda:
+
+```
+conda env create -f dependencies.yml
+```
 
 # Data attribution
 

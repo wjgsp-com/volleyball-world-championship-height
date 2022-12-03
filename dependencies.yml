@@ -1,0 +1,9 @@
+name: volleyball-world-championship-height
+channels:
+  - defaults
+dependencies:
+  - python=3.10.6
+  - selenium=3.141.0
+  - pandas=1.4.4
+  - matplotlib=3.5.2
+  - jupyter=1.0.0
